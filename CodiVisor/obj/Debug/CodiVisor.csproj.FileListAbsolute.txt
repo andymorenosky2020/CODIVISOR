@@ -1,0 +1,16 @@
+C:\CodiVisor\CodiVisor\bin\Debug\CodiVisor.exe.config
+C:\CodiVisor\CodiVisor\bin\Debug\CodiVisor.exe
+C:\CodiVisor\CodiVisor\bin\Debug\CodiVisor.pdb
+C:\CodiVisor\CodiVisor\bin\Debug\zxing.dll
+C:\CodiVisor\CodiVisor\bin\Debug\zxing.presentation.dll
+C:\CodiVisor\CodiVisor\bin\Debug\zxing.xml
+C:\CodiVisor\CodiVisor\bin\Debug\zxing.presentation.xml
+C:\CodiVisor\CodiVisor\obj\Debug\CodiVisor.csproj.AssemblyReference.cache
+C:\CodiVisor\CodiVisor\obj\Debug\CodiVisor.csproj.SuggestedBindingRedirects.cache
+C:\CodiVisor\CodiVisor\obj\Debug\CodiVisor.CodiVisor.resources
+C:\CodiVisor\CodiVisor\obj\Debug\CodiVisor.Properties.Resources.resources
+C:\CodiVisor\CodiVisor\obj\Debug\CodiVisor.csproj.GenerateResource.cache
+C:\CodiVisor\CodiVisor\obj\Debug\CodiVisor.csproj.CoreCompileInputs.cache
+C:\CodiVisor\CodiVisor\obj\Debug\CodiVisor.csproj.CopyComplete
+C:\CodiVisor\CodiVisor\obj\Debug\CodiVisor.exe
+C:\CodiVisor\CodiVisor\obj\Debug\CodiVisor.pdb
